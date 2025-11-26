@@ -1,0 +1,25 @@
+name: Regenerate indexes
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate-indexes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: wimpysworld/nothing-but-nix@main
+      - uses: cachix/install-nix-action@v31
+      - name: Generate JSON for each index in repos.txt
+        run: nix run nixpkgs#nushell -- ./regenerate-indexes.nu
+      - name: Commit
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add indexes/
+          git diff --quiet HEAD || (git commit -m "regenerate indexes" && git push)

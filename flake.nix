@@ -1,34 +1,37 @@
 {
-  description = ''
-    A reapkgs flake generated from the following Reapack indexes:
-    https://raw.githubusercontent.com/AntoineBalaine/perken-reaper-scripts/refs/heads/main/index.xml
-    https://raw.githubusercontent.com/Bird-Bird/ReaScript_Testing/main/index.xml
-    https://raw.githubusercontent.com/gwatcha/reaper-keys/refs/heads/master/index.xml
-    https://reapack.com/index.xml
-
-    Links:
-    Main repo: https://github.com/silvarc141/reapkgs
-    Flake generated for known ReaPack repos: https://github.com/silvarc141/reapkgs-known
-  '';
+  description = "Extra ReaPack repositories packaged for Nix";
 
   inputs = {
     flake-utils.url = "github:numtide/flake-utils";
-    nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";
+    reapkgs.url = "github:silvarc141/reapkgs";
   };
 
   outputs = {
     self,
     flake-utils,
-    nixpkgs,
+    reapkgs,
   }:
     flake-utils.lib.eachDefaultSystem (system: let
-      pkgs = import nixpkgs {inherit system;};
-    in rec {
-      packages =
-        {mkReapackPackage = import ./mk-reapack-package.nix;}
-        // import ./reapack-packages {
-          inherit (packages) mkReapackPackage;
-          inherit (pkgs) lib fetchurl stdenv;
-        };
+      pkgs = reapkgs.inputs.nixpkgs.legacyPackages.${system};
+
+      inherit (builtins) readDir;
+      inherit (pkgs.lib) hasSuffix filterAttrs mapAttrs' nameValuePair removeSuffix;
+      inherit (reapkgs.lib.${system}) mkReaPackIndex;
+
+      indexesDir = ./indexes;
+
+      isJson = name: type: type == "regular" && hasSuffix ".json" name;
+
+      jsonFiles = filterAttrs isJson (readDir indexesDir);
+
+      mkRepo = filename: _type: let
+        repoName = removeSuffix ".json" filename;
+        repoIndex = mkReaPackIndex (indexesDir + "/${filename}");
+      in
+        nameValuePair repoName repoIndex;
+    in {
+      formatter = pkgs.alejandra;
+      legacyPackages = mapAttrs' mkRepo jsonFiles;
+      defaultPackage = reapkgs.legacyPackages.${system}.generate-reapkgs;
     });
 }
