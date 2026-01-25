@@ -1,3 +1,4 @@
 https://reapack.com/index.xml
 https://raw.githubusercontent.com/AntoineBalaine/perken-reaper-scripts/refs/heads/main/index.xml
 https://raw.githubusercontent.com/gwatcha/reaper-keys/refs/heads/master/index.xml
+https://raw.githubusercontent.com/DemianDeVante/Demian-Reaper-Effects/master/index.xml
