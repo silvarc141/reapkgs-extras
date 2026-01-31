@@ -1,0 +1,608 @@
+{
+  "AD Collection.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Demian D/D Collection/AD Collection.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/AD%20Collection.jsfx",
+        "sha256": "0d3s5hvix125km4342vllvwf6g3kksa96n3km1n1jpka4vv9lgjg"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D 1175 Compressor.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%201175%20Compressor.jsfx",
+        "sha256": "0gqp8jihb9wkx890sczwvps71mlahnkaprxxv9ikmpa9nfs1ysv5"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Analog Summing.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Analog%20Summing.jsfx",
+        "sha256": "1cl1xn9bd7xf0n7wbzfncl612mrapn6wlyxxdml2mns3k8cm4gi8"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Avocado Glitch.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Avocado%20Glitch.jsfx",
+        "sha256": "17n4gi3a2lxvmkk4zfvmxprc0yqlqflpnb9bnrc41lrv7hpj6k34"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D DeEsser.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20DeEsser.jsfx",
+        "sha256": "038jfcayzg8bsbq94zpb6qc4ij0f2nfww20xns829q7gy57ir3rk"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Distortion.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Distortion.jsfx",
+        "sha256": "16c419405ni16wbddmda93pv2fwxiyrvm1rx3b63qwph77fs2qbp"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Event Horizon Clipper.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Event%20Horizon%20Clipper.jsfx",
+        "sha256": "0x3qw7yqxcm9s5pgnrp3dk2alvvrwbpib2253f664326ps9w95jn"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D FairlyChild Compressor.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20FairlyChild%20Compressor.jsfx",
+        "sha256": "1vpa13ki8sm01dzbhwhymfmwsa8ynwi3i3pa4j80r7mzampznanq"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Floaty Delay.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Floaty%20Delay.jsfx",
+        "sha256": "16j53blxxzkq4al9varwljzmia0xsp919dmh1mv54qsz9b8fsbqw"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Gain Panning.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Gain%20Panning.jsfx",
+        "sha256": "1yk17f4m3ks9xz9riylj4mdcn4m47qxamm5ql8gz24gmr5wkhh3l"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Gate.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Gate.jsfx",
+        "sha256": "13jgjd1c14vdi26gdm0rylncy515ia9mzkv4xqhdjzmphbcgz0d8"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Huge Booty Bass.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Huge%20Booty%20Bass.jsfx",
+        "sha256": "0lybdsaypvcgx2pb26csicidr4bw8vip5q3b8jxfafhaczdrmcqz"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Louderizer.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Louderizer.jsfx",
+        "sha256": "1pb4ycddglsfai44b12h09hp63nmnglr491jii57qs0hdndyryy7"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D MGA Limiter.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20MGA%20Limiter.jsfx",
+        "sha256": "0r4ad2dlcnvkyiqspzg3dwn6m47hpx6pc2f51ymx1s0277pdfh40"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Master Limiter.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Master%20Limiter.jsfx",
+        "sha256": "1rjh6dx0h1hfz3l8rladjxkffycxp5j07i46v8f30h6bh2zpbamw"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Ozzifier.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Ozzifier.jsfx",
+        "sha256": "1ap4fyfrc39l6spcc1684fcdx4f6pqhm6qb3adfjnd9s6kb7gw4l"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D P3B EQ.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20P3B%20EQ.jsfx",
+        "sha256": "0yg9957p0f0f6f9h6yarkjd66kzx93c97h5l5cixisjfzsr45pqi"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Ping Pong Pan.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Ping%20Pong%20Pan.jsfx",
+        "sha256": "1jgy4q7rjlaj6x2nkd1zjl5pl2hp6kf03dsw87qbyg9jcrgflccr"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Quick Delay.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Quick%20Delay.jsfx",
+        "sha256": "0l1c7h9fpv9p5vnq7s4b6jq3ln4npigxc32qdfqpghqqqr0fq1yc"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D RBJ EQ.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20RBJ%20EQ.jsfx",
+        "sha256": "1anhidvyan5vjd36kb6vp97qgs4kg68vyxdlblzvlcjx4spvj838"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D RBJ Highpass Lowpass.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20RBJ%20Highpass%20Lowpass.jsfx",
+        "sha256": "17zyrzhx8gfr591vm5gyyxhwyqcw7izw14yh8wziv8xc92l0jlcx"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D RC Inflator.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20RC%20Inflator.jsfx",
+        "sha256": "1qgnbjnf4ya8lxi83q56jan06qfcayf5mmc47lr9j7cjxg772gnr"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Reverb Hall.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Reverb%20Hall.jsfx",
+        "sha256": "0pjf93jv38w6v3i1i5z6pixpm3gr5nkp3pbnc3vjdvczii24hi1i"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Reverb Plate.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Reverb%20Plate.jsfx",
+        "sha256": "0zkhg98i03j1v6cbr1nskgch6jlik89wh7m2964mckw1hnla2zp7"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Reverb Room.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Reverb%20Room.jsfx",
+        "sha256": "1wrdw0m953vgyiqwymr6qmwmwij793qms6wspx4m8j47n3lkzvpq"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Saturation.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Saturation.jsfx",
+        "sha256": "15mz5bj1i1lwdv3cn049axc8qvm7cc29032m1rwj584b8hv2xmbm"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Smooth Limiter.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Smooth%20Limiter.jsfx",
+        "sha256": "16x2g48cyk5rmfhzhwj0wk7lrpxfdaj0f8y7z4qfp8q3kwnp2srb"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Stereoizer.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Stereoizer.jsfx",
+        "sha256": "0bdl1diwzbb0hq162yi6zjq4sr2qg0wqys8yznnw8y99818ad8sn"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Thunderkick.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Thunderkick.jsfx",
+        "sha256": "02xaci8wyfry3j81kcil1zciyv3ll47rp63c0l8xjk6zanwmw1q3"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Tom Compressor.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Tom%20Compressor.jsfx",
+        "sha256": "0wxk77kyh094xvjgx2qjn2ln1gskwnjvwbi9xsz3jwzsk0vy9qgh"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Transpire.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Transpire.jsfx",
+        "sha256": "02izmv5gwb1whv3y3dc9qpshjd6i9zpvbvg17i17612vdcqi6krh"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Ugly Pitch Shifter.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Ugly%20Pitch%20Shifter.jsfx",
+        "sha256": "1l0b07hxl0vhq8yn024xd1xhmw1pn1ninbd7bx4vmsmds5bv8zid"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/delay-utils.jsfx-inc",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/delay-utils.jsfx-inc",
+        "sha256": "14a9s7ma6ilvarqr9qaq5f1iq0ycn2lsy40radpjczwpnsgjgvn4"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/background.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/background.png",
+        "sha256": "1nv6fs4m7mryylrrrfy7iwdgn8nbpq089b536f2s5pd3g50jqyih"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/button_eq_in.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/button_eq_in.png",
+        "sha256": "09mqb51b9gk6sm692rn2qbn2cjjh2gcq6n1bassyp9wjw4sj3fp4"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_eq_on.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_eq_on.png",
+        "sha256": "0c15iica5xfnhxws3rafi60cbs8c12x3pqh9nib71zrwlp7hxypy"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_high_atten.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_high_atten.png",
+        "sha256": "0x4af6dy334lzyv8sc3rad1pi8dy4bj4cb8slk72xl412d8pqzv4"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_high_atten_kcs.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_high_atten_kcs.png",
+        "sha256": "18lc4aafcslav2v528rkvfis673a6gvzsxvb4z7vi1cvcdxpzqw5"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_high_boost.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_high_boost.png",
+        "sha256": "0y1j924sy17l66fiipr41jy6i511w95kp9xl5zlxyd6gfd92l15d"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_high_boost_bandwidth.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_high_boost_bandwidth.png",
+        "sha256": "0bxc3fzvl2mf9js8z9i6hbj8vnlmx49n38pqp3fj6whrdbv3dayd"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_high_boost_kcs.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_high_boost_kcs.png",
+        "sha256": "033kfscfm834k4dmj85sy4j8ag7vv73mfq434k462ys97danadjx"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_low_atten.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_low_atten.png",
+        "sha256": "10yk3bji255gz0qc0162nmmqvhhbip1iwxzr374a5d3myck47qph"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_low_boost.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_low_boost.png",
+        "sha256": "1gqp8pixzgzajan983psm47xj7g5x85paryhjggv82qyybncpqd3"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_low_cps.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_low_cps.png",
+        "sha256": "19knbq9k0yx3qac59hczlqcrrlrcbvlkmq00zy4alki82j0kdai0"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_trim.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_trim.png",
+        "sha256": "18v9fp4c3hma8i0wkg8lm7h26wjrzyi1r6x9g8a23xrrzif3livs"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/lamp_eq_on.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/lamp_eq_on.png",
+        "sha256": "02mh7zzwzphsfsyp9c9y23v2fsp3qfwc7v3la4kflw6ywg986z2h"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/menu.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/menu.png",
+        "sha256": "086hvwy5kaiq6yx68sybidk5h1zcbwjrxxksidjq0qvqwvbw0iq5"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/pitch-detection.jsfx-inc",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/pitch-detection.jsfx-inc",
+        "sha256": "0gvcjjk79v1z965kzrky6rx0s77lymllfl9hlv6mbrgxq9gclq8x"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/qd.delay.jsfx-inc",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/qd.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/qd.rbj_filter.jsfx-inc",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/qd.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/qd.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/qd.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/themes/bitmap-simple/theme-cyan.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/themes/bitmap-simple/theme-cyan.png",
+        "sha256": "0sdn9a1mlll8hrw0mnbfsrv8rdalgz2a27i8ihvi9awxn1ak6c9f"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/transpire_gfx/bg.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/transpire_gfx/bg.png",
+        "sha256": "0pqp04q7haayqd3yyfrx636w3b60nman8vyya57vbvcnzxpln4ai"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/transpire_gfx/clip.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/transpire_gfx/clip.png",
+        "sha256": "1r8dgjfhflgbcrz1szpflvfnaqyfvpgcm3wrmcd0c8n768w5wgfh"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/transpire_gfx/credits.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/transpire_gfx/credits.png",
+        "sha256": "0ll0448aap0pihwgq97vh4rrl2j2rs5h8083lsdrhqb8l8a0f6sv"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/transpire_gfx/knob_1.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/transpire_gfx/knob_1.png",
+        "sha256": "1jz4lfdmviybnz9b2ky0plj1azh0y32pqcxkg0qfq0hmlab6m72a"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/transpire_gfx/knob_2.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/transpire_gfx/knob_2.png",
+        "sha256": "0lyfii6h35b79k6dcg1jhirh49xa9cizp1pmbskvdah6pv0nj95q"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/transpire_gfx/knob_3.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/transpire_gfx/knob_3.png",
+        "sha256": "07yvycx2czdb6ld7fqy41v1nwvxiymim882y4ilh1iwaw1lbn4iy"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/transpire_gfx/knob_4.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/transpire_gfx/knob_4.png",
+        "sha256": "04qlhq4afpi1qml7i66ksc4gnrl7cz891ln57gpj8kfr621wigr3"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/ui-lib.jsfx-inc",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/ui-lib.jsfx-inc",
+        "sha256": "1a05223hkjz1d75kzkppshms7ilsx9nzcv3wsifp3i7n02yw3hhd"
+      }
+    ],
+    "1": [
+      {
+        "path": "Effects/Demian D/D Collection/AD Collection.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/AD%20Collection.jsfx",
+        "sha256": "0d3s5hvix125km4342vllvwf6g3kksa96n3km1n1jpka4vv9lgjg"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D 1175 Compressor.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%201175%20Compressor.jsfx",
+        "sha256": "0gqp8jihb9wkx890sczwvps71mlahnkaprxxv9ikmpa9nfs1ysv5"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Analog Summing.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Analog%20Summing.jsfx",
+        "sha256": "1cl1xn9bd7xf0n7wbzfncl612mrapn6wlyxxdml2mns3k8cm4gi8"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Avocado Glitch.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Avocado%20Glitch.jsfx",
+        "sha256": "17n4gi3a2lxvmkk4zfvmxprc0yqlqflpnb9bnrc41lrv7hpj6k34"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D DeEsser.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20DeEsser.jsfx",
+        "sha256": "038jfcayzg8bsbq94zpb6qc4ij0f2nfww20xns829q7gy57ir3rk"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Distortion.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Distortion.jsfx",
+        "sha256": "16c419405ni16wbddmda93pv2fwxiyrvm1rx3b63qwph77fs2qbp"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Event Horizon Clipper.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Event%20Horizon%20Clipper.jsfx",
+        "sha256": "0x3qw7yqxcm9s5pgnrp3dk2alvvrwbpib2253f664326ps9w95jn"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D FairlyChild Compressor.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20FairlyChild%20Compressor.jsfx",
+        "sha256": "1vpa13ki8sm01dzbhwhymfmwsa8ynwi3i3pa4j80r7mzampznanq"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Floaty Delay.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Floaty%20Delay.jsfx",
+        "sha256": "16j53blxxzkq4al9varwljzmia0xsp919dmh1mv54qsz9b8fsbqw"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Gain Panning.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Gain%20Panning.jsfx",
+        "sha256": "1yk17f4m3ks9xz9riylj4mdcn4m47qxamm5ql8gz24gmr5wkhh3l"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Gate.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Gate.jsfx",
+        "sha256": "13jgjd1c14vdi26gdm0rylncy515ia9mzkv4xqhdjzmphbcgz0d8"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Huge Booty Bass.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Huge%20Booty%20Bass.jsfx",
+        "sha256": "0lybdsaypvcgx2pb26csicidr4bw8vip5q3b8jxfafhaczdrmcqz"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Louderizer.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Louderizer.jsfx",
+        "sha256": "1pb4ycddglsfai44b12h09hp63nmnglr491jii57qs0hdndyryy7"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D MGA Limiter.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20MGA%20Limiter.jsfx",
+        "sha256": "0r4ad2dlcnvkyiqspzg3dwn6m47hpx6pc2f51ymx1s0277pdfh40"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Master Limiter.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Master%20Limiter.jsfx",
+        "sha256": "1rjh6dx0h1hfz3l8rladjxkffycxp5j07i46v8f30h6bh2zpbamw"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Ozzifier.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Ozzifier.jsfx",
+        "sha256": "1ap4fyfrc39l6spcc1684fcdx4f6pqhm6qb3adfjnd9s6kb7gw4l"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D P3B EQ.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20P3B%20EQ.jsfx",
+        "sha256": "0yg9957p0f0f6f9h6yarkjd66kzx93c97h5l5cixisjfzsr45pqi"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Ping Pong Pan.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Ping%20Pong%20Pan.jsfx",
+        "sha256": "1jgy4q7rjlaj6x2nkd1zjl5pl2hp6kf03dsw87qbyg9jcrgflccr"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Quick Delay.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Quick%20Delay.jsfx",
+        "sha256": "0l1c7h9fpv9p5vnq7s4b6jq3ln4npigxc32qdfqpghqqqr0fq1yc"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D RBJ EQ.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20RBJ%20EQ.jsfx",
+        "sha256": "1anhidvyan5vjd36kb6vp97qgs4kg68vyxdlblzvlcjx4spvj838"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D RBJ Highpass Lowpass.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20RBJ%20Highpass%20Lowpass.jsfx",
+        "sha256": "17zyrzhx8gfr591vm5gyyxhwyqcw7izw14yh8wziv8xc92l0jlcx"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D RC Inflator.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20RC%20Inflator.jsfx",
+        "sha256": "1qgnbjnf4ya8lxi83q56jan06qfcayf5mmc47lr9j7cjxg772gnr"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Reverb Hall.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Reverb%20Hall.jsfx",
+        "sha256": "0pjf93jv38w6v3i1i5z6pixpm3gr5nkp3pbnc3vjdvczii24hi1i"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Reverb Plate.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Reverb%20Plate.jsfx",
+        "sha256": "0zkhg98i03j1v6cbr1nskgch6jlik89wh7m2964mckw1hnla2zp7"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Reverb Room.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Reverb%20Room.jsfx",
+        "sha256": "1wrdw0m953vgyiqwymr6qmwmwij793qms6wspx4m8j47n3lkzvpq"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Saturation.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Saturation.jsfx",
+        "sha256": "15mz5bj1i1lwdv3cn049axc8qvm7cc29032m1rwj584b8hv2xmbm"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Smooth Limiter.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Smooth%20Limiter.jsfx",
+        "sha256": "16x2g48cyk5rmfhzhwj0wk7lrpxfdaj0f8y7z4qfp8q3kwnp2srb"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Stereoizer.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Stereoizer.jsfx",
+        "sha256": "0bdl1diwzbb0hq162yi6zjq4sr2qg0wqys8yznnw8y99818ad8sn"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Thunderkick.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Thunderkick.jsfx",
+        "sha256": "02xaci8wyfry3j81kcil1zciyv3ll47rp63c0l8xjk6zanwmw1q3"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Tom Compressor.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Tom%20Compressor.jsfx",
+        "sha256": "0wxk77kyh094xvjgx2qjn2ln1gskwnjvwbi9xsz3jwzsk0vy9qgh"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Transpire.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Transpire.jsfx",
+        "sha256": "02izmv5gwb1whv3y3dc9qpshjd6i9zpvbvg17i17612vdcqi6krh"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/D Ugly Pitch Shifter.jsfx",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/D%20Ugly%20Pitch%20Shifter.jsfx",
+        "sha256": "1l0b07hxl0vhq8yn024xd1xhmw1pn1ninbd7bx4vmsmds5bv8zid"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/delay-utils.jsfx-inc",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/delay-utils.jsfx-inc",
+        "sha256": "14a9s7ma6ilvarqr9qaq5f1iq0ycn2lsy40radpjczwpnsgjgvn4"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/background.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/background.png",
+        "sha256": "1nv6fs4m7mryylrrrfy7iwdgn8nbpq089b536f2s5pd3g50jqyih"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/button_eq_in.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/button_eq_in.png",
+        "sha256": "09mqb51b9gk6sm692rn2qbn2cjjh2gcq6n1bassyp9wjw4sj3fp4"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_eq_on.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_eq_on.png",
+        "sha256": "0c15iica5xfnhxws3rafi60cbs8c12x3pqh9nib71zrwlp7hxypy"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_high_atten.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_high_atten.png",
+        "sha256": "0x4af6dy334lzyv8sc3rad1pi8dy4bj4cb8slk72xl412d8pqzv4"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_high_atten_kcs.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_high_atten_kcs.png",
+        "sha256": "18lc4aafcslav2v528rkvfis673a6gvzsxvb4z7vi1cvcdxpzqw5"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_high_boost.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_high_boost.png",
+        "sha256": "0y1j924sy17l66fiipr41jy6i511w95kp9xl5zlxyd6gfd92l15d"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_high_boost_bandwidth.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_high_boost_bandwidth.png",
+        "sha256": "0bxc3fzvl2mf9js8z9i6hbj8vnlmx49n38pqp3fj6whrdbv3dayd"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_high_boost_kcs.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_high_boost_kcs.png",
+        "sha256": "033kfscfm834k4dmj85sy4j8ag7vv73mfq434k462ys97danadjx"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_low_atten.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_low_atten.png",
+        "sha256": "10yk3bji255gz0qc0162nmmqvhhbip1iwxzr374a5d3myck47qph"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_low_boost.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_low_boost.png",
+        "sha256": "1gqp8pixzgzajan983psm47xj7g5x85paryhjggv82qyybncpqd3"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_low_cps.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_low_cps.png",
+        "sha256": "19knbq9k0yx3qac59hczlqcrrlrcbvlkmq00zy4alki82j0kdai0"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/knob_trim.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/knob_trim.png",
+        "sha256": "18v9fp4c3hma8i0wkg8lm7h26wjrzyi1r6x9g8a23xrrzif3livs"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/lamp_eq_on.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/lamp_eq_on.png",
+        "sha256": "02mh7zzwzphsfsyp9c9y23v2fsp3qfwc7v3la4kflw6ywg986z2h"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/img/menu.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/img/menu.png",
+        "sha256": "086hvwy5kaiq6yx68sybidk5h1zcbwjrxxksidjq0qvqwvbw0iq5"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/pitch-detection.jsfx-inc",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/pitch-detection.jsfx-inc",
+        "sha256": "0gvcjjk79v1z965kzrky6rx0s77lymllfl9hlv6mbrgxq9gclq8x"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/qd.delay.jsfx-inc",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/qd.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/qd.rbj_filter.jsfx-inc",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/qd.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/qd.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/qd.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/themes/bitmap-simple/theme-cyan.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/themes/bitmap-simple/theme-cyan.png",
+        "sha256": "0sdn9a1mlll8hrw0mnbfsrv8rdalgz2a27i8ihvi9awxn1ak6c9f"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/transpire_gfx/bg.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/transpire_gfx/bg.png",
+        "sha256": "0pqp04q7haayqd3yyfrx636w3b60nman8vyya57vbvcnzxpln4ai"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/transpire_gfx/clip.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/transpire_gfx/clip.png",
+        "sha256": "1r8dgjfhflgbcrz1szpflvfnaqyfvpgcm3wrmcd0c8n768w5wgfh"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/transpire_gfx/credits.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/transpire_gfx/credits.png",
+        "sha256": "0ll0448aap0pihwgq97vh4rrl2j2rs5h8083lsdrhqb8l8a0f6sv"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/transpire_gfx/knob_1.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/transpire_gfx/knob_1.png",
+        "sha256": "1jz4lfdmviybnz9b2ky0plj1azh0y32pqcxkg0qfq0hmlab6m72a"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/transpire_gfx/knob_2.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/transpire_gfx/knob_2.png",
+        "sha256": "0lyfii6h35b79k6dcg1jhirh49xa9cizp1pmbskvdah6pv0nj95q"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/transpire_gfx/knob_3.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/transpire_gfx/knob_3.png",
+        "sha256": "07yvycx2czdb6ld7fqy41v1nwvxiymim882y4ilh1iwaw1lbn4iy"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/transpire_gfx/knob_4.png",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/transpire_gfx/knob_4.png",
+        "sha256": "04qlhq4afpi1qml7i66ksc4gnrl7cz891ln57gpj8kfr621wigr3"
+      },
+      {
+        "path": "Effects/Demian D/D Collection/ui-lib.jsfx-inc",
+        "url": "https://github.com/DemianDeVante/Demian-Reaper-Effects/raw/e5d85286a4b1891e2fb4fe2d97fea031da5a9d5d/D%20Collection/ui-lib.jsfx-inc",
+        "sha256": "1a05223hkjz1d75kzkppshms7ilsx9nzcv3wsifp3i7n02yw3hhd"
+      }
+    ]
+  }
+}
