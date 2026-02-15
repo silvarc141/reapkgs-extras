@@ -551,7 +551,7 @@
       {
         "path": "UserPlugins/reaper_reapack-armv7l.so",
         "url": "https://github.com/cfillion/reapack/releases/download/v1.2.4rc2/reaper_reapack-armv7l.so",
-        "sha256": ""
+        "sha256": "0j7ndywgpm88m47dk79b6vaabw1iqlhhi2k5bv68pl1ww7sd8slp"
       },
       {
         "path": "UserPlugins/reaper_reapack-i386.dylib",
@@ -571,7 +571,7 @@
       {
         "path": "UserPlugins/reaper_reapack-x86.dll",
         "url": "https://github.com/cfillion/reapack/releases/download/v1.2.4rc2/reaper_reapack-x86.dll",
-        "sha256": ""
+        "sha256": "07xckjlmk41j4zdnhnchvmqkyiwai44wlnysipn005gl3wzmm7v1"
       },
       {
         "path": "UserPlugins/reaper_reapack-x86_64.dylib",
@@ -598,7 +598,7 @@
       {
         "path": "UserPlugins/reaper_reapack-armv7l.so",
         "url": "https://github.com/cfillion/reapack/releases/download/v1.2.4rc1/reaper_reapack-armv7l.so",
-        "sha256": ""
+        "sha256": "056kfxsr8f3kcf7nvcmk4hwfp9aws5yydfqdkrknk1162drysmwm"
       },
       {
         "path": "UserPlugins/reaper_reapack-i386.dylib",
@@ -618,7 +618,7 @@
       {
         "path": "UserPlugins/reaper_reapack-x86.dll",
         "url": "https://github.com/cfillion/reapack/releases/download/v1.2.4rc1/reaper_reapack-x86.dll",
-        "sha256": ""
+        "sha256": "0vi97vvh0m0hijlhki1h7j56463m2zmp2g9l6d99v006qxfmd9x7"
       },
       {
         "path": "UserPlugins/reaper_reapack-x86_64.dylib",
