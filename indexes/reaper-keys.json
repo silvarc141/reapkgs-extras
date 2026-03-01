@@ -129,7 +129,7 @@
       {
         "path": "Scripts/reaper-keys/Scripts/../vendor/fuzzy.lua",
         "url": "https://github.com/gwatcha/reaper-keys/raw/30157f984638b6c43ed1ba8f6144b66bdc283eb0/vendor/fuzzy.lua",
-        "sha256": "144g52mz8qcv05hwxx32sl4x67vrg4379wc693l39m2n1p271s9d"
+        "sha256": ""
       },
       {
         "path": "Scripts/reaper-keys/Scripts/../vendor/scythe/gui/config.lua",
@@ -461,7 +461,7 @@
       {
         "path": "Scripts/reaper-keys/Scripts/../vendor/fuzzy.lua",
         "url": "https://github.com/gwatcha/reaper-keys/raw/30157f984638b6c43ed1ba8f6144b66bdc283eb0/vendor/fuzzy.lua",
-        "sha256": "144g52mz8qcv05hwxx32sl4x67vrg4379wc693l39m2n1p271s9d"
+        "sha256": ""
       },
       {
         "path": "Scripts/reaper-keys/Scripts/../vendor/scythe/gui/config.lua",

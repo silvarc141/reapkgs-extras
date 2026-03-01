@@ -2766,7 +2766,7 @@
       {
         "path": "Scripts/perken/reavim/key_scripts/main_(MS-s).lua",
         "url": "https://github.com/AntoineBalaine/perken-reaper-scripts/raw/6570e820f2fb677971554e82f449c60b0896ab9d/reavim/key_scripts/main_(MS-s).lua",
-        "sha256": ""
+        "sha256": "0gb95hhj72g4fnkmm0akraz6sjrzz5z4rvj304r1674rp2i667qz"
       },
       {
         "path": "Scripts/perken/reavim/key_scripts/main_(MS-sectionsign).lua",
@@ -5696,7 +5696,7 @@
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_(S-plusminus).lua",
         "url": "https://github.com/AntoineBalaine/perken-reaper-scripts/raw/6570e820f2fb677971554e82f449c60b0896ab9d/reavim/key_scripts/midi_(S-plusminus).lua",
-        "sha256": "10s7pdc4df01zdjzi7jx0a6hbvvd6d6z0xl060nx8n09na4y1bz1"
+        "sha256": ""
       },
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_(S-q).lua",
@@ -8843,7 +8843,7 @@
       {
         "path": "Scripts/perken/reavim/key_scripts/main_(MS-s).lua",
         "url": "https://github.com/AntoineBalaine/perken-reaper-scripts/raw/6570e820f2fb677971554e82f449c60b0896ab9d/reavim/key_scripts/main_(MS-s).lua",
-        "sha256": ""
+        "sha256": "0gb95hhj72g4fnkmm0akraz6sjrzz5z4rvj304r1674rp2i667qz"
       },
       {
         "path": "Scripts/perken/reavim/key_scripts/main_(MS-sectionsign).lua",
@@ -11773,7 +11773,7 @@
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_(S-plusminus).lua",
         "url": "https://github.com/AntoineBalaine/perken-reaper-scripts/raw/6570e820f2fb677971554e82f449c60b0896ab9d/reavim/key_scripts/midi_(S-plusminus).lua",
-        "sha256": "10s7pdc4df01zdjzi7jx0a6hbvvd6d6z0xl060nx8n09na4y1bz1"
+        "sha256": ""
       },
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_(S-q).lua",
@@ -16920,7 +16920,7 @@
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_(CS-n).lua",
         "url": "https://github.com/AntoineBalaine/perken-reaper-scripts/raw/3d453e459ce3754a2ec438143cfdc8bded4501d9/reavim/key_scripts/midi_(CS-n).lua",
-        "sha256": ""
+        "sha256": "0z2f1axrx857pyf7kr01ipf19is58w1hqcn4nars73dgizncjlh5"
       },
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_(CS-o).lua",
@@ -18145,7 +18145,7 @@
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_exclamation.lua",
         "url": "https://github.com/AntoineBalaine/perken-reaper-scripts/raw/3d453e459ce3754a2ec438143cfdc8bded4501d9/reavim/key_scripts/midi_exclamation.lua",
-        "sha256": ""
+        "sha256": "071vp9rl338j1whanmr5vcgdgy6f1y3x77c03nr8q3fnzsjkpw19"
       },
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_f.lua",
@@ -18180,12 +18180,12 @@
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_j.lua",
         "url": "https://github.com/AntoineBalaine/perken-reaper-scripts/raw/3d453e459ce3754a2ec438143cfdc8bded4501d9/reavim/key_scripts/midi_j.lua",
-        "sha256": ""
+        "sha256": "1hzamqfdmh39szjs9mwq36s86x566n3gwv6r9312znjlvfmm3x7h"
       },
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_k.lua",
         "url": "https://github.com/AntoineBalaine/perken-reaper-scripts/raw/3d453e459ce3754a2ec438143cfdc8bded4501d9/reavim/key_scripts/midi_k.lua",
-        "sha256": ""
+        "sha256": "0r296k6mybgcdbpd268m3wz25fivnwr3dw2nr38lhhhvbgns3v3f"
       },
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_l.lua",
@@ -18240,7 +18240,7 @@
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_p.lua",
         "url": "https://github.com/AntoineBalaine/perken-reaper-scripts/raw/3d453e459ce3754a2ec438143cfdc8bded4501d9/reavim/key_scripts/midi_p.lua",
-        "sha256": ""
+        "sha256": "1km3cksivnjf1xphcgqcpngqlwhdhixcxbgh4npmlqw1rxxascig"
       },
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_percent.lua",
@@ -18757,7 +18757,7 @@
       {
         "path": "Scripts/perken/reavim/internal/vendor/scythe/gui/elements/Frame.lua",
         "url": "https://github.com/AntoineBalaine/perken-reaper-scripts/raw/b538c2a6a7b3fbd9ca633fcd94c3038fa79f840b/reavim/internal/vendor/scythe/gui/elements/Frame.lua",
-        "sha256": "0lzghd5p719ba2pa3zj5vcfv8c84x3zbzx23v93n8i226q2i0hkw"
+        "sha256": ""
       },
       {
         "path": "Scripts/perken/reavim/internal/vendor/scythe/gui/elements/Knob.lua",
@@ -20027,7 +20027,7 @@
       {
         "path": "Scripts/perken/reavim/key_scripts/main_(CMS-l).lua",
         "url": "https://github.com/AntoineBalaine/perken-reaper-scripts/raw/b538c2a6a7b3fbd9ca633fcd94c3038fa79f840b/reavim/key_scripts/main_(CMS-l).lua",
-        "sha256": "1c4hvzgdmdmdy6k9d8h2d2fpgighaxrvi15cg808xkn22xxrvgxh"
+        "sha256": ""
       },
       {
         "path": "Scripts/perken/reavim/key_scripts/main_(CMS-left).lua",
@@ -20077,7 +20077,7 @@
       {
         "path": "Scripts/perken/reavim/key_scripts/main_(CMS-right).lua",
         "url": "https://github.com/AntoineBalaine/perken-reaper-scripts/raw/b538c2a6a7b3fbd9ca633fcd94c3038fa79f840b/reavim/key_scripts/main_(CMS-right).lua",
-        "sha256": "0sb1zh06n6j0mbg9p8w6m1y09kpn8z8sdibv91gd7icdm8scyr4w"
+        "sha256": ""
       },
       {
         "path": "Scripts/perken/reavim/key_scripts/main_(CMS-s).lua",
@@ -23027,7 +23027,7 @@
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_(CS-return).lua",
         "url": "https://github.com/AntoineBalaine/perken-reaper-scripts/raw/b538c2a6a7b3fbd9ca633fcd94c3038fa79f840b/reavim/key_scripts/midi_(CS-return).lua",
-        "sha256": ""
+        "sha256": "18k6229rll0njpf2b4b312wbz36gfda0fs9ldd9cnw9jw96pbdci"
       },
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_(CS-right).lua",
