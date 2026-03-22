@@ -22307,7 +22307,7 @@
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_(CM-asterisk).lua",
         "url": "https://github.com/AntoineBalaine/perken-reaper-scripts/raw/b538c2a6a7b3fbd9ca633fcd94c3038fa79f840b/reavim/key_scripts/midi_(CM-asterisk).lua",
-        "sha256": "0p0gc9kp36bnx3f769z9cibg9cn79b50anin1dxci78gq1bx7wcd"
+        "sha256": ""
       },
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_(CM-at).lua",
@@ -22527,7 +22527,7 @@
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_(CM-quotation).lua",
         "url": "https://github.com/AntoineBalaine/perken-reaper-scripts/raw/b538c2a6a7b3fbd9ca633fcd94c3038fa79f840b/reavim/key_scripts/midi_(CM-quotation).lua",
-        "sha256": "1yv63x4x4llshzvdmnn3ns1hqsmakrpjfgfcwx8f27jdaqqrjnr4"
+        "sha256": ""
       },
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_(CM-r).lua",
@@ -22537,7 +22537,7 @@
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_(CM-return).lua",
         "url": "https://github.com/AntoineBalaine/perken-reaper-scripts/raw/b538c2a6a7b3fbd9ca633fcd94c3038fa79f840b/reavim/key_scripts/midi_(CM-return).lua",
-        "sha256": "1g59yc88rmdqh7zcm5nssk0ahp7wr4ahc7lfka3g80v8pvv2skgs"
+        "sha256": ""
       },
       {
         "path": "Scripts/perken/reavim/key_scripts/midi_(CM-right).lua",
